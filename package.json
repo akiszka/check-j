@@ -2,6 +2,6 @@
   "name": "check-j",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "UNLICENSED",
+  "license": "GPL-3.0-or-later",
   "private": true
 }
